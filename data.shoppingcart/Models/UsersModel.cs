@@ -1,4 +1,4 @@
-namespace data.shoppingcart.Models;
+namespace Shoppingcart.Data.Models;
 
 /// <summary>
 /// 

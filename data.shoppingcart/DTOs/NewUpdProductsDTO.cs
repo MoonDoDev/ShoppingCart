@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace data.shoppingcart.DTOs;
+namespace Shoppingcart.Data.DTOs;
 
 /// <summary>
 /// 

@@ -1,7 +1,7 @@
-using data.shoppingcart.DTOs;
-using data.shoppingcart.Models;
+using Shoppingcart.Data.DTOs;
+using Shoppingcart.Data.Models;
 
-namespace data.shoppingcart;
+namespace Shoppingcart.Data;
 
 /// <summary>
 /// 

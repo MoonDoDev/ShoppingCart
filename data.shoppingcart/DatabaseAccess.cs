@@ -1,6 +1,6 @@
 ﻿using MongoDB.Driver;
 
-namespace data.shoppingcart;
+namespace Shoppingcart.Data;
 
 public class DatabaseAccess
 {

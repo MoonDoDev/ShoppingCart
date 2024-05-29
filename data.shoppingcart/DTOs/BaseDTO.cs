@@ -1,6 +1,6 @@
-using data.shoppingcart.Models;
+using Shoppingcart.Data.Models;
 
-namespace data.shoppingcart.DTOs;
+namespace Shoppingcart.Data.DTOs;
 
 /// <summary>
 /// 

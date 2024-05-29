@@ -1,7 +1,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace data.shoppingcart.Models;
+namespace Shoppingcart.Data.Models;
 
 /// <summary>
 /// 
